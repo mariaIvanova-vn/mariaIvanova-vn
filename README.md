@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mariaIvanova-vn
+- 👋 Hi, I’m Maria Ivanova
 
 
 <!---
