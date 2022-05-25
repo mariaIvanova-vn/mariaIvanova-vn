@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Maria Ivanova
+  Hi, I’m Maria Ivanova 👋 
 
 
 <!---
