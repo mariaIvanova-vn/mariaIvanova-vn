@@ -14,3 +14,5 @@
 #### Programming Basics with JavaScript - May 2022 -> [Certificate](https://softuni.bg/certificates/details/135314/17fe8605)
 
 #### C# Advanced - May 2022 -> [Certificate](https://softuni.bg/certificates/details/136380/eebfe401)
+
+#### C# OOP - June 2022 -> [Certificate](https://softuni.bg/certificates/details/141794/3d87d42c)
