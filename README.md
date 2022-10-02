@@ -1,10 +1,10 @@
-  Hi, I’m Maria Ivanova 👋 
-
+ ### Hi, I’m Maria Ivanova 👋 
 
 🌱 I’m currently learning .NET development in SoftUni!
 
 📫 How to reach me: maria_vn86@abv.bg
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariaIvanova-vn&layout=compact)](https://github.com/mariaIvanova-vn/mariaIvanova-vn/edit/main/README.md)
 -----------
 
 #### Programming Basics with C# - September 2021 -> [Certificate](https://softuni.bg/certificates/details/116247/be9d4631)
@@ -16,3 +16,4 @@
 #### C# Advanced - May 2022 -> [Certificate](https://softuni.bg/certificates/details/136380/eebfe401)
 
 #### C# OOP - June 2022 -> [Certificate](https://softuni.bg/certificates/details/141794/3d87d42c)
+
