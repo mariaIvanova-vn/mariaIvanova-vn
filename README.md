@@ -18,3 +18,5 @@
 #### C# OOP - June 2022 -> [Certificate](https://softuni.bg/certificates/details/141794/3d87d42c)
 
 #### JS Advanced - September 2022 -> [Certificate](https://softuni.bg/certificates/details/145641/eddee0f3)
+
+#### JS Applications - October 2022 -> [Certificate](https://softuni.bg/certificates/details/150030/f3411ff0)
