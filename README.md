@@ -20,3 +20,5 @@
 #### JS Advanced - September 2022 -> [Certificate](https://softuni.bg/certificates/details/145641/eddee0f3)
 
 #### JS Applications - October 2022 -> [Certificate](https://softuni.bg/certificates/details/150030/f3411ff0)
+
+#### MS SQL - January 2023 -> [Certificate](https://softuni.bg/certificates/details/157991/84b2217f)
