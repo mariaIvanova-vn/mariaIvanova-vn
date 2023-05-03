@@ -22,3 +22,5 @@
 #### JS Applications - October 2022 -> [Certificate](https://softuni.bg/certificates/details/150030/f3411ff0)
 
 #### MS SQL - January 2023 -> [Certificate](https://softuni.bg/certificates/details/157991/84b2217f)
+
+#### Entity Framework Core - February 2023 -> [Certificate](https://softuni.bg/certificates/details/164986/b3be7639)
