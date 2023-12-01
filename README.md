@@ -24,3 +24,5 @@
 #### MS SQL - January 2023 -> [Certificate](https://softuni.bg/certificates/details/157991/84b2217f)
 
 #### Entity Framework Core - February 2023 -> [Certificate](https://softuni.bg/certificates/details/164986/b3be7639)
+
+#### ASP.NET Advanced - June 2023 -> [Certificate](https://softuni.bg/certificates/details/182291/0baaefdb)
